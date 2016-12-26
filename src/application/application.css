@@ -1,0 +1,10 @@
+.root-background{
+	-fx-background-color: #000000;
+    -fx-text-fill: white;
+    -fx-alignment: right;
+}
+
+Label{
+	-fx-font-weight: bold;
+    -fx-text-fill: white;
+}
